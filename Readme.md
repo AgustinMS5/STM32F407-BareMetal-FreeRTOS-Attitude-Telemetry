@@ -9,9 +9,12 @@ A deterministic, layered embedded firmware system engineered **from scratch with
 
 ---
 
+
 ## Live Demonstration (Hardware + Real-Time 3D Digital Twin & DSP Scope)
 
-> **[Pega aquí tu vídeo siguiendo el truco de abajo]**
+[![STM32F407 Real-Time 3D Digital Twin & DSP Scope](https://img.youtube.com/vi/j0DCT61kyJc/maxresdefault.jpg)](https://www.youtube.com/watch?v=j0DCT61kyJc)
+
+> 👆 **Click the image above to watch the hardware demonstration and real-time CoreSight telemetry on YouTube:** [https://youtu.be/j0DCT61kyJc](https://youtu.be/j0DCT61kyJc)
 
 ---
 

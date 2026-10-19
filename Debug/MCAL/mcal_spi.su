@@ -1,4 +1,0 @@
-../MCAL/mcal_spi.c:10:6:SPI1_Init	4	static
-../MCAL/mcal_spi.c:49:6:SPI1_CS_Low	4	static
-../MCAL/mcal_spi.c:54:6:SPI1_CS_High	4	static
-../MCAL/mcal_spi.c:59:9:SPI1_Transfer	16	static

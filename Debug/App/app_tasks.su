@@ -1,6 +1,0 @@
-../App/app_tasks.c:38:13:IWDG_Init	4	static
-../App/app_tasks.c:46:13:IWDG_Feed	4	static
-../App/app_tasks.c:51:17:Calculate_PWM_Duty	16	static
-../App/app_tasks.c:59:13:vTaskSensor	40	static
-../App/app_tasks.c:92:13:vTaskLEDs	32	static
-../App/app_tasks.c:123:6:App_Init	16	static

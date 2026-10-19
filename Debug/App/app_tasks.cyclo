@@ -1,0 +1,6 @@
+../App/app_tasks.c:38:13:IWDG_Init	1
+../App/app_tasks.c:46:13:IWDG_Feed	1
+../App/app_tasks.c:51:17:Calculate_PWM_Duty	4
+../App/app_tasks.c:59:13:vTaskSensor	1
+../App/app_tasks.c:92:13:vTaskLEDs	6
+../App/app_tasks.c:123:6:App_Init	2

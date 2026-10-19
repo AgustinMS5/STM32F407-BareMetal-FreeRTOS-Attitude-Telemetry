@@ -1,0 +1,7 @@
+cat << 'EOF' > .gitignore
+Debug/*.o
+Debug/*.d
+Debug/**/*.o
+Debug/**/*.d
+.settings/
+EOF

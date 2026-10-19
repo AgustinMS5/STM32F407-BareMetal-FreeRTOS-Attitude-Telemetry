@@ -1,0 +1,4 @@
+../BSP/lis3dsh.c:11:13:LIS3DSH_WriteReg	1
+../BSP/lis3dsh.c:19:16:LIS3DSH_ReadReg	1
+../BSP/lis3dsh.c:28:6:LIS3DSH_Init	2
+../BSP/lis3dsh.c:45:6:LIS3DSH_ReadAxes	2

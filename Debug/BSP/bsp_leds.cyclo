@@ -1,0 +1,5 @@
+../BSP/bsp_leds.c:9:6:LedsInit	1
+../BSP/bsp_leds.c:44:6:BSP_LED_SetBrightness	6
+../BSP/bsp_leds.c:58:6:BSP_LED_On	1
+../BSP/bsp_leds.c:59:6:BSP_LED_Off	1
+../BSP/bsp_leds.c:61:6:BSP_LED_OffAll	1
